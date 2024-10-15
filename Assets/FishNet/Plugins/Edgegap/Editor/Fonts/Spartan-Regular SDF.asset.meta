@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b0fb2c68be09174f8ea5057b27a545c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.18R
+  assetPath: Assets/Scripts/FishNet/Plugins/Edgegap/Editor/Fonts/Spartan-Regular
+    SDF.asset
+  uploadId: 648381

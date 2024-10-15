@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc503f7541ebd424c94541e6a767efee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.18R
+  assetPath: Assets/Scripts/FishNet/Runtime/Observing/Conditions/GridCondition/GridCondition.asset
+  uploadId: 648381

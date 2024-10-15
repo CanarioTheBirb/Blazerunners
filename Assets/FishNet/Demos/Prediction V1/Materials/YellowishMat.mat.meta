@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6273444b68d517449aadb36abebaf561
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.18R
+  assetPath: Assets/Scripts/FishNet/Demos/Prediction V1/Materials/YellowishMat.mat
+  uploadId: 648381

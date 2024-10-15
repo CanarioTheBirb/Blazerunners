@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c5b7507c7544bd54cbcf99a5d75a8c2a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.18R
+  assetPath: Assets/Scripts/FishNet/Demos/Prediction V1/Rigidbody/Prefabs/Prediction
+    V1_RB_Prefabs.asset
+  uploadId: 648381

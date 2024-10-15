@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab6a9000f5ff83f45b6761c2a3be018d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.18R
+  assetPath: Assets/Scripts/FishNet/Demos/Authenticator/Prefabs/Authenticator_Prefabs.asset
+  uploadId: 648381

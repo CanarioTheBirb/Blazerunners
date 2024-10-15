@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e1673ccc2acac543871855a0e8bed71
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.18R
+  assetPath: Assets/Scripts/FishNet/Demos/Prediction V1/Rigidbody/Prefabs/PredictedBullet.prefab
+  uploadId: 648381

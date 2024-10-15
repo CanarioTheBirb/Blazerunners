@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36bccdedfe0feeb4daf43bef9e43b65b
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.18R
+  assetPath: Assets/Scripts/FishNet/Plugins/GameKit/Dependencies/GameKit.Dependencies.asmdef
+  uploadId: 648381

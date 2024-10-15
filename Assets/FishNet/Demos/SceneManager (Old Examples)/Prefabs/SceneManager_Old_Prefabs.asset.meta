@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1b4d193fc9b1bb41a92600a22b3d34e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.18R
+  assetPath: Assets/Scripts/FishNet/Demos/SceneManager (Old Examples)/Prefabs/SceneManager_Old_Prefabs.asset
+  uploadId: 648381

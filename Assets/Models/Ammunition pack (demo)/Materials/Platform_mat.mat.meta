@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc373e2b02159094eaa68fa84e24cb5d
+timeCreated: 1485249411
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82208
+  packageName: Ammunition pack (demo)
+  packageVersion: 1.0
+  assetPath: Assets/Ammunition pack (demo)/Materials/Platform_mat.mat
+  uploadId: 165293

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea31fef5ca1bc7344a72c71a5f9a0cd2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.18R
+  assetPath: Assets/Scripts/FishNet/Demos/Prediction V1/Materials/BlueMat.mat
+  uploadId: 648381

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0078a285cda09f349b2668a721a53212
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207815
+  packageName: 'Fish-Net: Networking Evolved'
+  packageVersion: 3.11.18R
+  assetPath: Assets/Scripts/FishNet/Demos/Network LOD/Prefabs/Network LOD_Prefabs.asset
+  uploadId: 648381

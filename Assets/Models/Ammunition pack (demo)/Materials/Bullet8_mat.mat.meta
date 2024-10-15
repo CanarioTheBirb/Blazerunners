@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d71231cfc1ddd2f468bf250085a8853e
+timeCreated: 1485521566
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82208
+  packageName: Ammunition pack (demo)
+  packageVersion: 1.0
+  assetPath: Assets/Ammunition pack (demo)/Materials/Bullet8_mat.mat
+  uploadId: 165293
