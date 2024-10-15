@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e99833eff184274bbf6a11c8e7b8ad1
+timeCreated: 1452445628
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68199
+  packageName: Mountain Race Track - Night
+  packageVersion: 1.0
+  assetPath: Assets/mountain-race-track/Materials/concrete-floor.mat
+  uploadId: 129734

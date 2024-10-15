@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 336f371587982bd4b85d1c28525476a2
+timeCreated: 1457823019
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 68199
+  packageName: Mountain Race Track - Night
+  packageVersion: 1.0
+  assetPath: Assets/mountain-race-track/Materials/lightbulb.mat
+  uploadId: 129734

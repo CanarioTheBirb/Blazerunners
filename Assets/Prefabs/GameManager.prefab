@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7346656817941908640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1359942888089611076}
+  - component: {fileID: 3915884076991798709}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1359942888089611076
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7346656817941908640}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 132.73157, y: 41.85609, z: 32.382084}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3915884076991798709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7346656817941908640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e71e57ec79d85fb4095a62f875fc4024, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerMode: 0
+  raceOver: 0
+  checkpoints: {fileID: 0}
+  maxRacers: 0
+  curRacerAmount: 0
+  laps: 1
+  CheckpointForgiveness: 2
+  positionText: {fileID: 0}
+  winMenu: {fileID: 0}
+  wrongWayPopup: {fileID: 0}
+  lapPopup: {fileID: 0}
+  racerFinishedBoxTransform: {fileID: 0}
+  racerPositions: []
+  racerPoints: []
+  checkpointList: []
+  startingPositions: {fileID: 0}
+  playerPref: {fileID: 0}
+  AIRacer: {fileID: 0}
+  setPath: {fileID: 0}
+  players: []
+  racerColors:
+  - {r: 0.990566, g: 0.11681201, b: 0.11681201, a: 0}
+  - {r: 0.117647044, g: 0.27908334, b: 0.99215686, a: 0}
+  - {r: 0.117647044, g: 0.99215686, b: 0.32172748, a: 0}
+  - {r: 0.87644315, g: 0.99215686, b: 0.117647044, a: 0}
+  - {r: 0.99215686, g: 0.117647044, b: 0.8973972, a: 0}
+  - {r: 0.14150941, g: 0.13817193, b: 0.14115022, a: 0}
+  - {r: 1, g: 0.9858491, b: 1, a: 0}
+  - {r: 0.73649955, g: 0.11654504, b: 0.9150943, a: 0}
+  - {r: 0.9137255, g: 0.5043154, b: 0.11764703, a: 0}
+  - {r: 0.11764703, g: 0.9137255, b: 0.8638311, a: 0}
